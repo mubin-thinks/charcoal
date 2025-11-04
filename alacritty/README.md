@@ -4,7 +4,7 @@ Notepad etc.) as you will have to edit some files.
 
 Now, we will clone the Charcoal Repository with the following command:
 ```bash
-git clone https://github.com/mubin6th/charcoal
+git clone https://github.com/think-mubin/charcoal
 ```
 
 You can then `cd` or go to the `charcoal/alacritty/` directory. Then, choose the theme file

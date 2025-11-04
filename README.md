@@ -15,10 +15,10 @@ and Gruvbox Material colorschemes and tries to be simple and easy-on-eyes theme.
 - Warm and easy-on-eyes colors.
 - 8 monochromatic colors for each monochrome mode.
 - Simple dark and light shades.
-- Support for real-time color editing through [color_grid](https://github.com/mubin6th/charcoal/blob/develop/color_grid).
+- Support for real-time color editing through [color_grid](https://github.com/think-mubin/charcoal/blob/develop/color_grid).
 
 ## Preview
-<a href="https://github.com/mubin6th/charcoal/blob/master/readme_resources/preview_neovim_v1.1.0.png?raw=true"><img alt="preview_neovim_v1.1.0.png" src="https://github.com/mubin6th/charcoal/blob/master/readme_resources/preview_neovim_v1.1.0.png?raw=true"></a>
+<a href="https://github.com/think-mubin/charcoal/blob/master/readme_resources/preview_neovim_v1.1.0.png?raw=true"><img alt="preview_neovim_v1.1.0.png" src="https://github.com/think-mubin/charcoal/blob/master/readme_resources/preview_neovim_v1.1.0.png?raw=true"></a>
 
 ## Palette
 Here is the text form of the palette, I faced difficulties creating a grid layout.
@@ -40,6 +40,6 @@ warm_white4 = #d1b994         |         warm_black4 = #695a40
 Charcoal is in its early stages, so many colors may be imperfect so feel free to post any
 issue about it. I will kindly view your opinion, Insha'allah.
 
-[Preview]: https://github.com/mubin6th/charcoal?tab=readme-ov-file#preview
-[Install]: https://github.com/mubin6th/charcoal?tab=readme-ov-file#install
-[Contribute]: https://github.com/mubin6th/charcoal?tab=readme-ov-file#contribute
+[Preview]: https://github.com/think-mubin/charcoal?tab=readme-ov-file#preview
+[Install]: https://github.com/think-mubin/charcoal?tab=readme-ov-file#install
+[Contribute]: https://github.com/think-mubin/charcoal?tab=readme-ov-file#contribute
