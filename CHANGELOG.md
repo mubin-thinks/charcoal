@@ -1,7 +1,7 @@
 # Changelog
 
 ## v1.1.1 (In progress)
-- change: change author name to think-mubin.
+- change: author name to mubin-thinks.
 
 ## v1.1.0 - 31/10/2025
 - **breaking**: color palette is now 8 colors for both dark and light monochrome variants.
