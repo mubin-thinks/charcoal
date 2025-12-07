@@ -1,6 +1,6 @@
 SRC:=src/*.c lib/*.c
 INCLUDE_DIR:=-I"include/"
-LIBS:=-lm -lglfw3 -lGL -ldl
+LIBS:=-lm -lglfw -lGL -ldl
 LIBS_DIR:=-L"lib/"
 FLAGS:=-Wall -std=gnu99
 EXE:=colorgrid

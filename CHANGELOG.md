@@ -2,6 +2,8 @@
 
 ## v1.1.1 (In progress)
 - change: author name to mubin-thinks.
+- change: color_grid/Makefile: `-lglfw3` to `-lglfw`.
+- fix: better `alacritty/README.md`.
 
 ## v1.1.0 - 31/10/2025
 - **breaking**: color palette is now 8 colors for both dark and light monochrome variants.
