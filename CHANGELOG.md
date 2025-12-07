@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.1.1 (In progress)
+## v1.1.1 - 07/12/2025
 - change: author name to mubin-thinks.
 - change: color_grid/Makefile: `-lglfw3` to `-lglfw`.
 - fix: better `alacritty/README.md`.
